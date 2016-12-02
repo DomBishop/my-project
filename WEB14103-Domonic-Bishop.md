@@ -3,10 +3,17 @@
 ## Domonic Bishop's portfolio
 
 ###Content:
-* [Projects](#Projects)
+* [EyeBombing](#EyeBombing)
+* [OneTweet](#OneTweet)
+* [Union Hack](#UnionHack)
+* [Code in your plate](#Codeinyourplate)
 * [Blog Posts](#Blog-Posts)
 
-### Projects on GitHub: <a id="Projects"></a>
+---
+
+####EyeBombing: <a id="EyeBombing"></a>
+* [Here are my raw pictures](https://github.com/FacesInPlacesOrg/eyesbombing/tree/master/raw%20face%20pictures)
+* [Here are my pictures post editing](https://github.com/FacesInPlacesOrg/eyesbombing/tree/master/edited%20face%20pictures)
 
 ---
 
