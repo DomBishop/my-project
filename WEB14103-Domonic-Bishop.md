@@ -22,7 +22,10 @@ I used a few resources to produce these, one of which is [this video tutorial](h
 ![Snowden](http://prod-upp-image-read.ft.com/92d8bda8-3fd7-11e3-a890-00144feabdc0)
 
 ####Union Hack <a id="UnionHack"></a>
-[These are the flag mashups] I made for the project
+[These are the flag mashups](https://github.com/DomBishop/my-project/upload/master) I made for the project, and this is the final design of my flag:
+![final flag](http://fourthfloor.raveweb.net/dbishop/wp-content/uploads/sites/2/2016/12/flag-test-1-768x382.png)
+
+####Code in your plate <a id="Codeinyourplate"></a>
 
 ---
 
