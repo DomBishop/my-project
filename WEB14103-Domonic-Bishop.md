@@ -26,6 +26,7 @@ I used a few resources to produce these, one of which is [this video tutorial](h
 ![final flag](http://fourthfloor.raveweb.net/dbishop/wp-content/uploads/sites/2/2016/12/flag-test-1-768x382.png)
 
 ####Code in your plate <a id="Codeinyourplate"></a>
+[Here is the initial "Code in your plate" website](https://thimbleprojects.org/dombishop/144408)
 
 ---
 
