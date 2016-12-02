@@ -15,6 +15,9 @@
 * [Here are my raw pictures](https://github.com/FacesInPlacesOrg/eyesbombing/tree/master/raw%20face%20pictures)
 * [Here are my pictures post editing](https://github.com/FacesInPlacesOrg/eyesbombing/tree/master/edited%20face%20pictures)
 
+####OneTweet <a id="OneTweet"></a>
+[Here are the final designs]
+
 ---
 
 ###Blog Posts: <a id="Blog-Posts"></a>
