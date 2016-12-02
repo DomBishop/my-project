@@ -2,11 +2,15 @@
 
 ## Domonic Bishop's portfolio
 
-### Projects on GitHub:
+###Content:
+* [Projects](#Projects)
+* [Blog Posts](#Blog-Posts)
+
+### Projects on GitHub: <a id="Projects"></a>
 
 ---
 
-###Blog Posts:
+###Blog Posts: <a id="Blog-Posts"></a>
 1. [EyeBombing](http://fourthfloor.raveweb.net/dbishop/2016/10/08/eyebombing/)
 2. [OneTweet](http://fourthfloor.raveweb.net/dbishop/2016/10/12/onetweet/)
 3. [Union Hack](http://fourthfloor.raveweb.net/dbishop/2016/11/14/the-union-hack/)
