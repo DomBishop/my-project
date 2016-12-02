@@ -11,12 +11,18 @@
 
 ---
 
-####EyeBombing: <a id="EyeBombing"></a>
+####EyeBombing <a id="EyeBombing"></a>
 * [Here are my raw pictures](https://github.com/FacesInPlacesOrg/eyesbombing/tree/master/raw%20face%20pictures)
 * [Here are my pictures post editing](https://github.com/FacesInPlacesOrg/eyesbombing/tree/master/edited%20face%20pictures)
 
 ####OneTweet <a id="OneTweet"></a>
-[Here are the final designs](https://github.com/DomBishop/my-project/tree/master/OneTweetPictures)
+[Here are the final designs I made for this project](https://github.com/DomBishop/my-project/tree/master/OneTweetPictures)
+
+I used a few resources to produce these, one of which is [this video tutorial](https://www.youtube.com/watch?v=uzNPfGiYIAs), and the other is this picture for tracing in Adobe Illustrator:
+![Snowden](http://prod-upp-image-read.ft.com/92d8bda8-3fd7-11e3-a890-00144feabdc0)
+
+####Union Hack <a id="UnionHack"></a>
+[These are the flag mashups] I made for the project
 
 ---
 
