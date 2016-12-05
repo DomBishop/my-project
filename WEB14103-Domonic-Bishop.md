@@ -8,7 +8,8 @@
 * [Union Hack](#UnionHack)
 * [Code in your plate](#Codeinyourplate)
 * [Blog Posts](#Blog-Posts)
-
+* [Presentations](#Pres)
+* [Notice](#notice)
 ---
 
 ####EyeBombing <a id="EyeBombing"></a>
@@ -42,3 +43,16 @@ This final design is based on a show called Kiznaiver, it's supposed to be a dra
 6. [The Web's Grain](http://fourthfloor.raveweb.net/dbishop/2016/12/02/the-webs-grain/)
 7. [Code in your plate](http://fourthfloor.raveweb.net/dbishop/2016/12/02/code-in-your-plate/)
 8. [CSS tricks](http://fourthfloor.raveweb.net/dbishop/2016/12/02/how-to-use-position-fixed/)
+
+---
+
+###Presentations <a id="Pres"></a>
+####[Visual perception princples figure ground presentation](http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php)
+For this presentation I read the linked article and then used the images included in it to show my point when presenting it.
+
+####[Css Tricks](https://thimbleprojects.org/dombishop/145456)
+I used this site to show everyone how to use position: fixed; in css and what you can do with it.
+
+---
+
+###(note any missing presentations or other missing content is due to an authorised absence in the early weeks of the project)<a id="notice"></a>
