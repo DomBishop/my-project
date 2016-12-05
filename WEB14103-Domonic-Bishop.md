@@ -24,6 +24,7 @@ I used a few resources to produce these, one of which is [this video tutorial](h
 ####Union Hack <a id="UnionHack"></a>
 [These are the flag mashups](https://github.com/DomBishop/my-project/upload/master) I made for the project, and this is the final design of my flag:
 ![final flag](http://fourthfloor.raveweb.net/dbishop/wp-content/uploads/sites/2/2016/12/flag-test-1-768x382.png)
+This final design is based on a show called Kiznaiver, it's supposed to be a draw bridge that is raised. The meaning behind that is in the show this happens so that people in the can take part in an experiment to teach people in the city compassion for each other by making them share pain, but in fact it does the opposite. So the message here is that the red arrows on the flag represent pain being transferred to people, but at the same time people are isolated, so the experiment does not work.
 
 ####Code in your plate <a id="Codeinyourplate"></a>
 * [Here is the initial "Code in your plate" website](https://thimbleprojects.org/dombishop/144408) (note that the table has been changed so that the alternate blue is only on the top row)
